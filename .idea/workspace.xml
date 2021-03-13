@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="575dac48-e54f-4c4c-a998-7487a9989788" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="c65f9186-dfdc-4510-b9cb-2ea25a3b89c1" />
+  <component name="ProjectId" id="1p3VrPGWtXZK4BXsRKu0tvi4hhI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="575dac48-e54f-4c4c-a998-7487a9989788" name="Default Changelist" comment="" />
+      <created>1614411960248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614411960248</updated>
+      <workItem from="1614411961343" duration="5207000" />
+      <workItem from="1614505618427" duration="8465000" />
+      <workItem from="1615021381396" duration="5778000" />
+      <workItem from="1615104632559" duration="2913000" />
+      <workItem from="1615126144110" duration="4151000" />
+      <workItem from="1615132138030" duration="662000" />
+      <workItem from="1615562556267" duration="4992000" />
+      <workItem from="1615579773232" duration="165000" />
+      <workItem from="1615622257243" duration="1576000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1081" y="207" key="#HTML" timestamp="1614413262732">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1081" y="207" key="#HTML/-2560.0.2560.1400/0.0.2560.1400/2560.-583.1440.2520@0.0.2560.1400" timestamp="1614413262732" />
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615128533917">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.-583.1440.2520/-2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1615128533917" />
+    <state x="-1855" y="0" width="1871" height="1387" maximized="true" key="dock-window-1" timestamp="1615022837089">
+      <screen x="-2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-1855" y="0" width="1871" height="1387" maximized="true" key="dock-window-1/-2560.0.2560.1400/0.0.2560.1400/2560.-583.1440.2520@0.0.2560.1400" timestamp="1615022837089" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1615129804600">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.-583.1440.2520/-2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1615129804600" />
+  </component>
+</project>
